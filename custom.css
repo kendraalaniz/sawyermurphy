@@ -1,0 +1,42 @@
+.container {
+	padding: 10px 20px;
+	margin: 5px 10px;
+}
+
+img {
+	margin: 10px auto;
+	height: 670px;
+	width: 670px;
+	padding: 10px 10px;
+	border: 4px solid #BF3E21;
+	border-radius: 2px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.jumbotron {
+	text-align: center;
+	color: #BF3E21;
+	background-color: #73A59C;
+}
+
+h1 {
+	font-family: 'Damion', cursive;
+}
+
+.about {
+	text-align: center;
+}
+
+.gallery {
+	text-align: center;
+	background-color: #eee;
+}
+
+.footer {
+	text-align: center;
+	color: #fff;
+	background-color: #73A59C;
+}
