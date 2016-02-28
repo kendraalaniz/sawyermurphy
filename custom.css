@@ -23,10 +23,19 @@ li {
 	margin-left: -40px;
 }
 
+h1 {
+	font-family: 'Permanent Marker', cursive;
+}
+
 .jumbotron {
 	text-align: center;
 	color: #BF3E21;
 	background-color: #73A59C;
+}
+
+.jumbotron h1 {
+	text-transform: uppercase;
+	color: #fff;
 }
 
 .about {
