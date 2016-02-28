@@ -1,3 +1,4 @@
+
 .container {
 	padding: 10px 20px;
 	margin: 5px 10px;
@@ -14,16 +15,18 @@ img {
 
 ul {
 	list-style-type: none;
+	text-align: center;
+}
+
+li {
+	text-align: center;
+	margin-left: -40px;
 }
 
 .jumbotron {
 	text-align: center;
 	color: #BF3E21;
 	background-color: #73A59C;
-}
-
-h1 {
-	font-family: 'Damion', cursive;
 }
 
 .about {
